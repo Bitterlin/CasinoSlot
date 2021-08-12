@@ -1,0 +1,5 @@
+this is my first Java-Programm, a simple Casino Slot Game
+
+You can Start it with the Gui class
+
+have fun
